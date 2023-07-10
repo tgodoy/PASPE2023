@@ -24,3 +24,6 @@ Sesión 9: Bajar el directorio "6.Metagenomica_diff_abund.zip"
 Sesión 10: Bajar el directorio "7.Transcriptomica.zip"
 
 El archivo 8.Graficos_extras.zip es un directorio con códigos extras para representarotro tipo de gráficos.
+
+Más información del curso: 
+https://educacioncontinua.espm.mx/paspe/detalle/programa-analisis-de-datos-en-ciencias-genomicas-usando-r-126
