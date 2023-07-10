@@ -22,3 +22,5 @@ Sesión 7 y 8: Bajar el directorio "5.Metagenomica_Alfa_beta_diversidad.zip"
 Sesión 9: Bajar el directorio "6.Metagenomica_diff_abund.zip"
 
 Sesión 10: Bajar el directorio "7.Transcriptomica.zip"
+
+El archivo 8.Graficos_extras.zip es un directorio con códigos extras para representarotro tipo de gráficos.
